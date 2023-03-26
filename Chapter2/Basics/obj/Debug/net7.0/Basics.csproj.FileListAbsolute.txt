@@ -1,0 +1,15 @@
+E:\2021-23\DSA\CSharp\Chapter2\Basics\bin\Debug\net7.0\Basics.exe
+E:\2021-23\DSA\CSharp\Chapter2\Basics\bin\Debug\net7.0\Basics.deps.json
+E:\2021-23\DSA\CSharp\Chapter2\Basics\bin\Debug\net7.0\Basics.runtimeconfig.json
+E:\2021-23\DSA\CSharp\Chapter2\Basics\bin\Debug\net7.0\Basics.dll
+E:\2021-23\DSA\CSharp\Chapter2\Basics\bin\Debug\net7.0\Basics.pdb
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\Basics.csproj.AssemblyReference.cache
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\Basics.AssemblyInfoInputs.cache
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\Basics.AssemblyInfo.cs
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\Basics.csproj.CoreCompileInputs.cache
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\Basics.dll
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\refint\Basics.dll
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\Basics.pdb
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\Basics.genruntimeconfig.cache
+E:\2021-23\DSA\CSharp\Chapter2\Basics\obj\Debug\net7.0\ref\Basics.dll
