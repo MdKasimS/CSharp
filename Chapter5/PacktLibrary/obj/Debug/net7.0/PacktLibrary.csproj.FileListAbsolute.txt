@@ -1,0 +1,12 @@
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\bin\Debug\net7.0\PacktLibrary.deps.json
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\bin\Debug\net7.0\PacktLibrary.dll
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\bin\Debug\net7.0\PacktLibrary.pdb
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.csproj.AssemblyReference.cache
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.AssemblyInfoInputs.cache
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.AssemblyInfo.cs
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.csproj.CoreCompileInputs.cache
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.dll
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\obj\Debug\net7.0\refint\PacktLibrary.dll
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\obj\Debug\net7.0\PacktLibrary.pdb
+E:\2021-23\Training\Csharp\Chapter5\PacktLibrary\obj\Debug\net7.0\ref\PacktLibrary.dll
